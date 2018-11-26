@@ -1,0 +1,14 @@
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Business\bin\Debug\netcoreapp2.1\ProjectManager.Business.deps.json
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Business\bin\Debug\netcoreapp2.1\ProjectManager.Business.dll
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Business\bin\Debug\netcoreapp2.1\ProjectManager.Business.pdb
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Business\obj\Debug\netcoreapp2.1\ProjectManager.Business.csprojAssemblyReference.cache
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Business\obj\Debug\netcoreapp2.1\ProjectManager.Business.csproj.CoreCompileInputs.cache
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Business\obj\Debug\netcoreapp2.1\ProjectManager.Business.AssemblyInfoInputs.cache
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Business\obj\Debug\netcoreapp2.1\ProjectManager.Business.AssemblyInfo.cs
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Business\obj\Debug\netcoreapp2.1\ProjectManager.Business.dll
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Business\obj\Debug\netcoreapp2.1\ProjectManager.Business.pdb
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Business\bin\Debug\netcoreapp2.1\ProjectManager.DataAccess.dll
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Business\bin\Debug\netcoreapp2.1\ProjectManager.Entities.dll
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Business\bin\Debug\netcoreapp2.1\ProjectManager.DataAccess.pdb
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Business\bin\Debug\netcoreapp2.1\ProjectManager.Entities.pdb
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Business\obj\Debug\netcoreapp2.1\ProjectManager.Business.csproj.CopyComplete

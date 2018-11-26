@@ -1,0 +1,9 @@
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Entities\bin\Debug\netcoreapp2.1\ProjectManager.Entities.deps.json
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Entities\bin\Debug\netcoreapp2.1\ProjectManager.Entities.dll
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Entities\bin\Debug\netcoreapp2.1\ProjectManager.Entities.pdb
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.csproj.CoreCompileInputs.cache
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.AssemblyInfoInputs.cache
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.AssemblyInfo.cs
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.dll
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.pdb
+C:\Venkat\IIHT\Certification\ProjectManagerService\ProjectManager.Entities\obj\Debug\netcoreapp2.1\ProjectManager.Entities.csprojAssemblyReference.cache
